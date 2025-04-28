@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estou atualmente estudando Node.JS <br>🎯  Atualmente procurando minha primeira oportunidade na área.</p>
+<p align="left">📚 Estou atualmente estudando React <br>🎯  Atualmente procurando minha primeira oportunidade na área.</p>
 
 ###
 
